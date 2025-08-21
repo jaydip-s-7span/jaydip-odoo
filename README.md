@@ -1,1 +1,1 @@
-# jaydip-odoo
+# Odoo-Web-Framework-Tutorial
